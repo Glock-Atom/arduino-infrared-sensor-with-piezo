@@ -1,9 +1,9 @@
 # Arduino Infrared Sensor with Piezo
 
 ## What you need
-1x Arduino Uno
-1x Infrared Sensor
-1x Piezo Buzzer
+* Arduino Uno
+* Infrared Sensor
+* Piezo Buzzer
 
 ## Circuit
 
